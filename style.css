@@ -11,6 +11,9 @@ body {
 .text-blue {
     color: #2937f0;
 }
+.text-orange{
+    color:#E55040;
+}
 .navbar-brand img{
     width: 40px;
     height: 40px;
